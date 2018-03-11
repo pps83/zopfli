@@ -1,0 +1,5 @@
+*.suo
+*.VC.opendb
+*.VC.db
+/.vs/
+/build.msvc/
